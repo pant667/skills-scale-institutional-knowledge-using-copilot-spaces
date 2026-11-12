@@ -266,4 +266,3 @@ The Stakeholder Representative or Subject-Matter Expert provides domain knowledg
 - When a single person covers more than one responsibility, make the primary accountable owner explicit in the project plan, backlog, or team charter.
 - Keep these role definitions lightweight and adaptable; project teams should adjust them to fit the size, complexity, and culture of the initiative.
 
-
